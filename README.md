@@ -10,5 +10,5 @@
 - Python (pandas, matplotlib, numpy)
 - Jupyter Notebook
 
-## Запуск
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EvgenySklyarov81/ad-hoc-sales-queries/blob/main/ad-hoc-sales-queries.ipynb)
+## Посмотреть блокнот
+[Посмотреть ноутбук в nbviewer](https://nbviewer.org/github/EvgenySklyarov81/ad-hoc-sales-queries/blob/main/ad-hoc-sales-queries.ipynb)
